@@ -1,0 +1,29 @@
+/* start.wxss */
+
+.background-image{
+   height : 100%;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.intro {
+  padding: 24px 10%;
+  color:red;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: bold;
+}
+.xx {
+  padding: 10px 10%;
+  color:rgb(0, 247, 255);
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn1{
+  width: 60%;
+   font-size: 16px;
+}

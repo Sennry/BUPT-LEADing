@@ -1,0 +1,7 @@
+<canvas class = "canvas" id="chart1"
+canvas-id="state">   
+</canvas>
+<view class="hello">
+         
+<image src="../photo/1.jpg"></image>
+</view>
