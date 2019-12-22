@@ -1,0 +1,16 @@
+<!--start.wxml-->
+<view class="intro">
+  目的: 在手机端查看是否有人进入。
+</view>
+<view class="fengmian">
+<image src="../photo/1.jpg"></image>
+</view>
+<view >
+<image class='background-image'src='../photo/2.jpg'></image>
+</view>
+
+<view class="xx">
+  别看了，小偷就是你!!!
+</view>
+
+<button class="btn1" bindtap="navigate">查看设备回传数据</button>
